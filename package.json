@@ -1,0 +1,18 @@
+{
+  "name": "plopjs-sample",
+  "version": "1.0.0",
+  "scripts": {
+    "gc": "plop c --plopfile ./.plop/plopfile.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/k1-c/plopjs-sample.git"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "plop": "^3.1.2"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
